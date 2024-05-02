@@ -84,7 +84,7 @@ Or add it in your `package.json` file:
 ```md
 # Example
 
-<Asciinema src="/casts/yourcast.cast" />
+<Asciinema src="casts/yourcast.cast" />
 ```
 
 The parameter `src` will look for static assets from the [`public` directory](https://sli.dev/custom/directory-structure.html#public). In this example, the file is be located at `your-project-root/public/casts/yourcast.cast`.
@@ -96,7 +96,7 @@ All the[ `asciinema-player`'s options](https://github.com/asciinema/asciinema-pl
 ```md
 # Example
 
-<Asciinema src="/casts/yourcast.cast" :playerProps="{speed: 2, rows: 23}"/>
+<Asciinema src="casts/yourcast.cast" :playerProps="{speed: 2, rows: 23}"/>
 ```
 
 ### Base paths
