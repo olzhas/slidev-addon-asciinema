@@ -1,5 +1,5 @@
 {
-  "name": "@olzhas/slidev-addon-asciinema",
+  "name": "@olzhas-adiyatov/slidev-addon-asciinema",
   "version": "0.1.11-fork.0",
   "description": "A fork of the slidev addon to embed asciinema casts to presentations. In this fork we use original css file from asciinema-player. You can find the original addon here https://github.com/murilo-cunha/slidev-addon-asciinema",
   "author": "Olzhas Adiyatov",
